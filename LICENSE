@@ -1,51 +1,79 @@
-# Simple Interest Calculator
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
 
-## 📌 Overview
-This repository hosts a **Simple Interest Calculator** script written in **Bash**. The project is part of a micro-finance startup's transition from SVN to Git and serves as an open-source initiative to help individuals calculate simple interest efficiently.
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
-## 🔧 Features
-- Calculates simple interest based on **Principal**, **Rate of Interest**, and **Time**.
-- Lightweight and easy to use.
-- Open-source and community-driven.
+   1. Definitions.
 
-## 🚀 Getting Started
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
 
-### **Prerequisites**
-- A **Unix-based system** (Linux/Mac) or Git Bash on Windows.
-- Basic knowledge of command-line operations.
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
 
-### **Installation**
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/simple-interest-calculator.git
-   cd simple-interest-calculator
-   ```
-2. **Make the script executable**:
-   ```bash
-   chmod +x simple-interest.sh
-   ```
-3. **Run the script**:
-   ```bash
-   ./simple-interest.sh
-   ```
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
 
-## 📜 Usage
-1. Enter the **Principal Amount**, **Rate of Interest**, and **Time Period** when prompted.
-2. The script will calculate and display the **Simple Interest**.
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
 
-## 📄 License
-This project is licensed under the **Apache License 2.0**. See the [LICENSE](LICENSE) file for details.
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, and configuration files.
 
-## 🤝 Contributing
-We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute.
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but not
+      limited to compiled object code, generated documentation, and
+      conversions to other media types.
 
-## 📜 Code of Conduct
-Please follow our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to maintain a welcoming and inclusive environment.
+      "Work" shall mean the work of authorship, whether in Source or Object
+      form, made available under the License, as indicated by a copyright
+      notice that is included in or attached to the work (an example is
+      provided in the Appendix below).
 
-## ⭐ Acknowledgments
-- Inspired by the mission to empower low-income individuals through accessible financial tools.
-- Built as part of a **Git transition project** for a micro-finance startup.
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based on (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other modifications
+      represent, as a whole, an original work of authorship. For the purposes
+      of this License, Derivative Works shall not include works that remain
+      separable from, or merely link (or bind by name) to the interfaces of,
+      the Work and Derivative Works thereof.
 
----
+      "Contribution" shall mean any work of authorship, including the
+      original version of the Work and any modifications or additions to
+      that Work or Derivative Works thereof, that is intentionally submitted
+      to Licensor for inclusion in the Work by the copyright owner or by an
+      individual or Legal Entity authorized to submit on behalf of the
+      copyright owner. For the purposes of this definition, "submitted" means
+      any form of electronic, verbal, or written communication sent to the
+      Licensor or its representatives, including but not limited to
+      communication on electronic mailing lists, source code control systems,
+      and issue tracking systems that are managed by, or on behalf of, the
+      Licensor for the purpose of discussing and improving the Work, but
+      excluding communication that is conspicuously marked or otherwise
+      designated in writing by the copyright owner as "Not a Contribution."
 
-Made with ❤️ by Ali Fathan.
+      "Contributor" shall mean Licensor and any individual or Legal Entity
+      on behalf of whom a Contribution has been received by Licensor and
+      subsequently incorporated within the Work.
+
+   2. Grant of Copyright License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      copyright license to reproduce, prepare Derivative Works of,
+      publicly display, publicly perform, sublicense, and distribute the
+      Work and such Derivative Works in Source or Object form.
+
+   3. Grant of Patent License. Subject to the terms and conditions of this
+      License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have made,
+      use, offer to sell, sell, import, and otherwise transfer the Work,
+      where such license applies only to those patent claims licensable by
+      such Contributor that are necessarily infringed 
